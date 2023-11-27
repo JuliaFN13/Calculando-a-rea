@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(198, 236, 210);
+    text-align: center;
+}
+
+
+.topo{
+    background-color: rgb(225, 245, 220);
+    border: 2px rgb(161, 154, 201) solid;
+    font-family:monospace;
+    color: rgb(122, 201, 201);
+}
+
+input{
+    background-color: bisque;
+    color: rgb(92, 108, 108);
+}
